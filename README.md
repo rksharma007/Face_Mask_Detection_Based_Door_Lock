@@ -18,7 +18,8 @@ Software Requirements
     Tensorflow
     Stepper Motor Drivers
     
-    ![image](https://user-images.githubusercontent.com/77050199/162942650-dc54fa6f-53c4-4711-b839-5b34bb3e4a45.png)
-
     
+
+    ![Capture](https://user-images.githubusercontent.com/77050199/162942956-341c48ab-be21-45ed-9d05-799f9619f0c2.JPG)
+
     
