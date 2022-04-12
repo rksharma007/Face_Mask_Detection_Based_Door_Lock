@@ -17,9 +17,7 @@ Software Requirements
     OpenCV
     Tensorflow
     Stepper Motor Drivers
-    
-    
 
-    ![Capture](https://user-images.githubusercontent.com/77050199/162942956-341c48ab-be21-45ed-9d05-799f9619f0c2.JPG)
+![Capture](https://user-images.githubusercontent.com/77050199/162943744-784807ea-c123-447e-ab56-2584d9388816.JPG)
 
     
